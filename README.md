@@ -19,7 +19,7 @@ Mes projets à venir :
 - __MatchImmo__: Une app mobile inspirée de Tinder pour trouver des locations. Elle permet le swiping et le matching sur des appartements pour des colocations ou recherches individuelles. Les matchs communs sont affichés dans une discussion, et votre dossier est automatiquement envoyé aux agences. L'app inclut une gestion sécurisée de dossiers, messagerie intégrée et un suivie de vos demandes. Une API américaine est déjà trouvée pour les annonces,suggestions d'une API française bienvenues 😁. Pour la mise en place, mon niveau est encore trop faible pour le moment on en reparlera durant le développement de __My_Wallet__.
 
 
-### Intégration stylée :
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-Dmb&layout=compact)
 
 
