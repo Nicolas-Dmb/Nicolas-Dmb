@@ -10,7 +10,7 @@ Des cours intéressant mais surtout des exercices hyper intuitifs. J'ai pu appre
 J'ai ensuite continué mon apprentissage via OpenClassRooms avec des cours en accès libre sur __HTML et CSS, Flask, Django, API, DjangoRestFramework, React.js__. 
 
 ### Projets
-Après quelques projets pas très abouti, j'ai depuis terminé une vraie application web [listexcel.fr](listexcel.fr), son usage est spécifique à mon ancien métier, qui concerne le traitement de données. Il m'a permis d'utiliser le framework __Flask, la librairie Pandas, la gestion des utilisateurs et des fichiers et le deploiement d'une application via VPS__. 
+Après quelques projets pas très abouti par manque de connaissances, j'ai depuis terminé une vraie application web [listexcel.fr](listexcel.fr), son usage est spécifique à mon ancien métier, qui concerne le traitement de données. Il m'a permis d'utiliser le framework __Flask, la librairie Pandas, la gestion des utilisateurs et des fichiers et le deploiement d'une application via VPS__. 
 
 En ce moment je travaille sur un projet de Gestion des clés à destination des syndics de copropriété intitulé __Trackey__. J'ai crée une [API via Django_Rest_framework](https://github.com/Nicolas-Dmb/Trackey_API), puis une [partie Frontend](https://github.com/Nicolas-Dmb/Trackey_Frontend) en React.js qui est en cours. Pour clôturer ce projet il faut que je me plonge dans __React Native__ pour la partie mobile de mon application. Je me fixe un délai d'un mois pour réaliser cette application que j'ai débuté le 10 mars. On se donne donc rendez-vous le 10 avril, pour voir le résultat j'espère être au rendez-vous 😶.
 
