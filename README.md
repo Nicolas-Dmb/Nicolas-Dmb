@@ -1,6 +1,6 @@
 
 # Bonjour 👋
-__Développeur en formation MCS Pro chez Epitech, à la recherche d'une alternance pour 3 ans.__ 
+__Développeur en formation MCS Pro chez Epitech, à la recherche d'une alternance pour 3 ans.__ [CV](CV.pdf)
 
 J'ai débuté le développement informatique fin 2022. J'avais une idée d'application web en tête et je voulais donc en apprendre plus sur ce domaine et par hasard sur une vidéo youtube j'entends parler de [CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science).
 
