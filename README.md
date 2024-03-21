@@ -20,7 +20,6 @@ Mes projets à venir :
 
 
 ### Intégrations stylés :
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nicolas-Dmb)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-Dmb&layout=compact)
 
 
