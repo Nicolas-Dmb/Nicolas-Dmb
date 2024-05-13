@@ -12,7 +12,7 @@ J'ai ensuite continué mon apprentissage via OpenClassRooms avec des cours en ac
 ### Projets
 Après quelques projets pas très aboutis par manque de connaissances, j'ai depuis terminé une vraie application web [listexcel.fr](listexcel.fr), son usage est spécifique à mon ancien métier et concerne le traitement de données. Il m'a permis d'utiliser le framework __Flask, la librairie Pandas, la gestion des utilisateurs et des fichiers et le deploiement d'une application via VPS__. 
 
-En ce moment je travaille sur un projet de Gestion des clés à destination des syndics de copropriété intitulé __Trackey__. J'ai créé une [API via Django_Rest_framework](https://github.com/Nicolas-Dmb/API_Trackey), puis une [partie Frontend](https://github.com/Nicolas-Dmb/Trackey) en React.js. Je travaille actuellement sur la partie mobile, mais la partie web est accessible via : [Trackey](https://trackey.fr/)
+En ce moment je travaille sur un projet de Gestion des clés à destination des syndics de copropriété intitulé __Trackey__. J'ai créé une [API via Django_Rest_framework](https://github.com/Nicolas-Dmb/API_Trackey), puis une [partie Frontend](https://github.com/Nicolas-Dmb/Trackey) en React.js. Je travaille actuellement sur la partie mobile, mais la partie web est accessible via : [Trackey](https://trackey.fr/) et l'API via [APITrackey](https://www.apitrackey.fr/) 
 
 Mes projets à venir : 
 - __My_Wallet__ : Saas pour gérer son portefeuille d'investissement. Une API plus conséquente, et une partie frontend avec des graphiques de partout 🤯. Ca promet quelques difficultés. (Pas d'application mobile prévue) 
