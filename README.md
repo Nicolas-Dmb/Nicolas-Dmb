@@ -11,7 +11,7 @@ J'ai ensuite continué mon apprentissage via OpenClassRooms avec des cours en ac
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-Dmb&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Nicolas-Dmb&layout=compact)
 
 
 
